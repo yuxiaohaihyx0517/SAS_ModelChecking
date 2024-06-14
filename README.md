@@ -4,6 +4,7 @@ This repository contains the code for Statistics Sinica paper entitled ``Model c
 
 @article{han2023model,    
   title={Model checking in large-scale dataset via structure-adaptive-sampling},
+  
   author={Han, Yixin and Ma, Ping and Ren, Haojie and Wang, Zhaojun},
   journal={Statistica Sinica},
   volume={33},
